@@ -78,5 +78,5 @@ The **Teacher's Meeting Room Metaverse** aims to:
 
 Visit the virtual meeting room in the metaverse:
 
-- **Explore the Teacher's Meeting Room on Spatial.io**: [Visit Now]([#](https://www.spatial.io/s/Sala-de-Reuniones-EduSTEAM-643ef20f61551030690f0c5b?share=7514180227630875353))
+- **Explore the Teacher's Meeting Room on Spatial.io**: [Visit Now](https://www.spatial.io/s/Sala-de-Reuniones-EduSTEAM-643ef20f61551030690f0c5b?share=7514180227630875353)
 
